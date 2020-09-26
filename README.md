@@ -1,2 +1,2 @@
-# -Sistema-de-rectificaci-n-para-conducci-n-en-l-nea-recta-de-veh-culos-aut-nomos
+# -Sistema-de-rectificacion-para-conduccion-en-linea-recta-de-vehiculos-autonomos
 Auto antichoque y correccion de desviacion
